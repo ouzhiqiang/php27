@@ -211,6 +211,23 @@ EOT;
                 echo $retStr;
                 }
 
+        if ($keyword == '测试1') {
+                // 发送天气的消息
+                $textTpl = "<xml>
+                        <ToUserName><![CDATA[%s]]></ToUserName>
+                        <FromUserName><![CDATA[%s]]></FromUserName>
+                        <CreateTime>%s</CreateTime>
+                        <MsgType><![CDATA[%s]]></MsgType>
+                        <Content><![CDATA[%s]]></Content>
+                        <FuncFlag>0</FuncFlag>
+                        </xml>";
+                $time = time();
+                $msgtype = 'text';
+                $content = '<a href="http://39.108.104.19/login1.php">测试1</a>';
+                $retStr = sprintf($textTpl, $fromusername, $tousername, $time, $msgtype, $content);
+                echo $retStr;
+                }
+
         if ($keyword == '分享') {
                 // 测试分享的消息
                 $textTpl = "<xml>
@@ -699,6 +716,27 @@ EOT;
         );
         return $signPackage; 
     }
+
+    public function getOpenid(){  
+        $appid = $this->appid;
+        $appsecret = $this->appsecret;
+
+	    $SERVER_NAME = $_SERVER['SERVER_NAME'];  
+	    $REQUEST_URI = $_SERVER['REQUEST_URI'];  
+	    $redirect_uri = urlencode('http://' . $SERVER_NAME . $REQUEST_URI);  
+	    $code = $_GET['code'];  
+	    if (! $code) {  
+	        // 网页授权当scope=snsapi_userinfo时才会提示是否授权应用  
+	        $autourl = "https://open.weixin.qq.com/connect/oauth2/authorize?appid=".$appid."&redirect_uri=".$redirect_uri."&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect";  
+	        header("location:$autourl");  
+	    } else {  
+	        // 获取openid  
+	        $url = "https://api.weixin.qq.com/sns/oauth2/access_token?appid=".$appid."&secret=".$appsecret."&code=$code&grant_type=authorization_code";  
+	        $row = $this->jsonToArray($this->getData($url));  
+	        return ($row['openid']);  
+    	}  
+    } 
+
 }
 
 ?>
