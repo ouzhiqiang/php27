@@ -211,6 +211,25 @@ EOT;
                 echo $retStr;
                 }
 
+        //接受信息回复对应的文本信息      
+        if ($keyword) {
+                $textTpl = "<xml>
+                        <ToUserName><![CDATA[%s]]></ToUserName>
+                        <FromUserName><![CDATA[%s]]></FromUserName>
+                        <CreateTime>%s</CreateTime>
+                        <MsgType><![CDATA[%s]]></MsgType>
+                        <Content><![CDATA[%s]]></Content>
+                        <FuncFlag>0</FuncFlag>
+                        </xml>";
+                $time = time();
+                $msgtype = 'text';
+                $contentlist = $database->select('wx_text',['text'],["keyword" => $keyword ]);
+                $content = $contentlist[0]['text']; 
+                // $content = '<a href="http://39.108.104.19/demo.php">测试</a>';
+                $retStr = sprintf($textTpl, $fromusername, $tousername, $time, $msgtype, $content);
+                echo $retStr;
+                }
+
         if ($keyword == '测试1') {
                 // 发送天气的消息
                 $textTpl = "<xml>

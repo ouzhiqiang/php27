@@ -1,0 +1,988 @@
+[ 2017-07-19T00:01:00+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-07-19T00:01:01+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/add_text/id/10/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-07-19T00:01:03+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-07-19T00:01:04+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/add_text/id/12/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-07-19T00:01:06+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-07-19T00:01:07+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-07-19T00:01:21+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-07-19T00:01:23+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-07-19T00:01:25+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-07-19T00:01:27+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/add_text/id/10/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-07-19T00:01:31+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/add_text/id/10/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-07-19T00:05:04+08:00 ] 61.144.129.132 /thinkphp_wx/Home/Index/wxIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant wxText - assumed 'wxText' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/d7afc08e88068689bd04637b9b480409.php 第 186 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-07-19T00:05:07+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-07-19T00:05:09+08:00 ] 61.144.128.20 /thinkphp_wx/index.php/Home/Index/add_text/id/10/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wx_text` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-07-19T00:05:13+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-07-19T00:05:15+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-07-19T00:10:14+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-07-19T00:10:15+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wx_text` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-07-19T00:10:43+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wx_text` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-07-19T00:14:41+08:00 ] 61.144.128.20 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-07-19T00:14:43+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-07-19T00:14:46+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-07-19T00:14:47+08:00 ] 61.144.129.94 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wx_text` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-07-19T00:14:54+08:00 ] 61.144.128.20 /thinkphp_wx/index.php/Home/Index/add_text/id/9/edit/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: UPDATE `wx_text` SET `keyword`='车型的谁',`text`='好久好久双方都发生' WHERE `id` = 9 [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000084s ]
+SQL: SELECT * FROM `wx_text` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.001632s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001392s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000004s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-07-19T00:14:55+08:00 ] 61.144.129.154 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-07-19T00:16:36+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-07-19T00:16:41+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/del_text/id/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: DELETE FROM `wx_text` WHERE `id` = 13 [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-07-19T00:16:42+08:00 ] 61.144.128.20 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-07-19T00:16:49+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-07-19T00:16:53+08:00 ] 61.144.129.132 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-07-19T14:19:01+08:00 ] 220.115.189.54 /thinkphp_wx/Home/Index/wxIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Use of undefined constant wxText - assumed 'wxText' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/d7afc08e88068689bd04637b9b480409.php 第 186 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-07-19T14:19:09+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-07-19T14:19:11+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-07-19T14:20:25+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: INSERT INTO `wx_text` (`keyword`,`text`,`createtime`) VALUES ('你好','亲！您好。我是您的小管家！','1500445225') [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000031s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.001443s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001396s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000004s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-07-19T14:20:26+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/add_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 116 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 141 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 148 行.
+NOTIC: [8] Undefined variable: keyword /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/5f8e89bf78f42a3390ff70146b8c417f.php 第 156 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-07-19T14:20:30+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-07-19T14:20:37+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/del_text/id/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: DELETE FROM `wx_text` WHERE `id` = 10 [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-07-19T14:20:38+08:00 ] 220.115.189.54 /thinkphp_wx/index.php/Home/Index/wxText.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `wx_text` [ RunTime:0.0004s ]
+SQL: SELECT `id`,`keyword`,`text` FROM `wx_text`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: navigate_admin /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 117 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 164 行.
+NOTIC: [8] Undefined variable: page /home/wwwroot/default/thinkphp_wx/Application/Runtime/Cache/Home/f6b6fad6868eaf03731585cfe11455de.php 第 173 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
